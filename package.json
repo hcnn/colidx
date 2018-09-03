@@ -1,0 +1,9 @@
+{
+  "name": "colidx",
+  "version": "0.1.0",
+  "repo": "hcnn/colidx",
+  "description": "Convert matrix indicies i and j to an array's column-major index (fortran)",
+  "keywords": ["column major order", "matrix indicies"],
+  "license": "MIT",
+  "src": ["colidx.c", "colidx.h"]
+}
